@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use OCNSFIT, please cite the article below and this software."
+title: "OCNSFIT: Open Cluster Nested Sampling Fit"
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/oplevne/ocnsfit"
+authors:
+  - family-names: Plevne
+    given-names: Olcay
+    email: olcayplevne@istanbul.edu.tr
+    orcid: "https://orcid.org/0000-0002-0435-4493"
+    affiliation: "Faculty of Science, Department of Astronomy and Space Sciences, Istanbul University, Istanbul, Türkiye; Institute for Astronomy, University of Edinburgh, Royal Observatory, Blackford Hill, Edinburgh, EH9 3HJ, UK"
+  - family-names: Akbaba
+    given-names: Furkan
+    orcid: "https://orcid.org/0000-0002-9993-7244"
+    affiliation: "Institute of Graduate Studies in Science, Istanbul University, Istanbul, Türkiye"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Plevne
+      given-names: Olcay
+      orcid: "https://orcid.org/0000-0002-0435-4493"
+    - family-names: Akbaba
+      given-names: Furkan
+      orcid: "https://orcid.org/0000-0002-9993-7244"
+  title: "Astrophysical Parameters of 5056 Open Star Clusters from Bayesian Nested Sampling with PARSEC Isochrones"
+  journal: "Monthly Notices of the Royal Astronomical Society"
+  year: 2026
+  # doi: "10.1093/mnras/XXXX"   # add when assigned

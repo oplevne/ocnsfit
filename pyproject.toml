@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ocnsfit"
+version = "1.0.0"
+description = "Open Cluster Nested Sampling Fit: Bayesian isochrone fitting of open clusters with Gaia and PARSEC"
+readme = "README.md"
+license = {text = "MIT"}
+authors = [{name = "Olcay Plevne", email = "olcayplevne@istanbul.edu.tr"},
+           {name = "Furkan Akbaba"}]
+requires-python = ">=3.9"
+dependencies = ["numpy", "scipy", "pandas", "pyarrow", "astropy", "scikit-learn",
+                "dynesty>=2.0", "h5py", "matplotlib", "corner", "requests", "lxml"]
+keywords = ["open clusters", "isochrone fitting", "nested sampling", "Gaia", "PARSEC"]
+
+[project.urls]
+Homepage = "https://github.com/oplevne/ocnsfit"
+
+[tool.setuptools]
+packages = ["ocnsfit"]
