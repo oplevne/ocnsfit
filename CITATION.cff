@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use OCNSFIT, please cite the article below and this software."
+message: "If you use OCNSFIT, please cite the article below."
 title: "OCNSFIT: Open Cluster Nested Sampling Fit"
 version: 1.0.0
 license: MIT

@@ -106,9 +106,8 @@ If you use OCNSFIT, please cite:
 }
 ```
 
-Please also cite the software DOI (see [`CITATION.cff`](CITATION.cff)) and the
-underlying tools: PARSEC (Bressan et al. 2012), dynesty (Speagle 2020) and
-*Gaia* DR3.
+Please also cite the underlying tools: PARSEC (Bressan et al. 2012), dynesty
+(Speagle 2020) and *Gaia* DR3.
 
 ## Authors
 
