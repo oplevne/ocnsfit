@@ -23,7 +23,13 @@ preferred-citation:
     - family-names: Akbaba
       given-names: Furkan
       orcid: "https://orcid.org/0000-0002-9993-7244"
-  title: "Astrophysical Parameters of 5056 Open Star Clusters from Bayesian Nested Sampling with PARSEC Isochrones"
+  title: "Astrophysical parameters of 5056 open star clusters from Bayesian nested sampling with PARSEC isochrones"
   journal: "Monthly Notices of the Royal Astronomical Society"
+  volume: 553
+  issue: 1
+  start: stag1964
   year: 2026
-  # doi: "10.1093/mnras/XXXX"   # add when assigned
+  month: 11
+  issn: "0035-8711"
+  doi: "10.1093/mnras/stag1964"
+  url: "https://doi.org/10.1093/mnras/stag1964"

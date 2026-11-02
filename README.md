@@ -85,18 +85,24 @@ log(Age/yr) from 6.0 to 10.0 in steps of 0.05 dex (≤ 8.5) and 0.10 dex
 
 If you use OCNSFIT, please cite:
 
-> Plevne, O. & Akbaba, F. 2026, MNRAS, *Astrophysical Parameters of 5056 Open
-> Star Clusters from Bayesian Nested Sampling with PARSEC Isochrones*
+> Plevne, O. & Akbaba, F. 2026, MNRAS, 553, stag1964,
+> *Astrophysical parameters of 5056 open star clusters from Bayesian nested
+> sampling with PARSEC isochrones*,
+> [doi:10.1093/mnras/stag1964](https://doi.org/10.1093/mnras/stag1964)
 
 ```bibtex
-@ARTICLE{Plevne2026,
-       author = {{Plevne}, Olcay and {Akbaba}, Furkan},
-        title = "{Astrophysical Parameters of 5056 Open Star Clusters from Bayesian Nested Sampling with PARSEC Isochrones}",
-      journal = {Monthly Notices of the Royal Astronomical Society},
-         year = 2026,
-       volume = {XXX},
-        pages = {XXX},
-          doi = {10.1093/mnras/XXXX},
+@article{Plevne2026,
+    author  = {Plevne, Olcay and Akbaba, Furkan},
+    title   = {Astrophysical parameters of 5056 open star clusters from Bayesian nested sampling with PARSEC isochrones},
+    journal = {Monthly Notices of the Royal Astronomical Society},
+    volume  = {553},
+    number  = {1},
+    pages   = {stag1964},
+    year    = {2026},
+    month   = {11},
+    issn    = {0035-8711},
+    doi     = {10.1093/mnras/stag1964},
+    url     = {https://doi.org/10.1093/mnras/stag1964},
 }
 ```
 
